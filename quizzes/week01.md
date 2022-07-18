@@ -57,17 +57,17 @@ font-weight
 <!-- enter you answer in the space below -->
 
 ```
-
+<ul></ul> , <ol></ol> , <dl></dl>
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+Flex property sets the flex length on flex items. 
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+box-sizing will affect the size of a box model.
 ```

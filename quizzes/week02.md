@@ -13,7 +13,11 @@ A function is a subprogram that is used to perform a task
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single Responsibility Principle
+Open Closed Principle
+Liskov substitution Principle
+Interface Segregation Principle
+Dependency Inversion Principle
 ```
 **4.** Given this array: 
 ```js

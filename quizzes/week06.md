@@ -3,55 +3,55 @@
 **1.** What is the entrypoint of an application?
 <!-- enter you answer in the space below -->
 ```
-
+index.html
 ```
 **2.** What is the difference between a vue `component` and `page`?
 <!-- enter you answer in the space below -->
 ```
-
+a few component can be reused on multiple pages that does not have a specific URL link, whereas a page manipulates the URL. 
 ```
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+v-for
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
 ```
-
+template, script, style
 ```
 **5.** What does the `L` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Liskov Substitution Principle
 ```
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
 ```
-
+app.vue
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
-
+AppState is the raw data that is stored from the server. The state object within the component can be manipulated. 
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 ```
-
+Services in vue are the same as services in MVC, they hold the business functions that manipulate the data that users cannot access. 
 ```
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
 ```
-
+index.html
 ```
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
 <!-- enter you answer in the space below -->
 ```
-
+style, scoped
 ```
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
 ```
-
+watchEffect
 ```
